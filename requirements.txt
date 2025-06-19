@@ -1,0 +1,11 @@
+pandas==2.0.3
+selenium==4.11.2
+sqlalchemy==2.0.19
+matplotlib==3.8.0
+seaborn==0.13.2
+streamlit==1.46.0
+beautifulsoup4==4.12.2
+requests==2.31.0
+psycopg2-binary==2.9.7
+plotly==6.1.2
+statsmodels==0.14.4
