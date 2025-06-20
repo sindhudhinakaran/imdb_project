@@ -99,7 +99,7 @@ streamlit run imdb_streamlit_app.py
 - Deploy Streamlit app for cloud or browser access
 
 ### Contact
-Questions or contributions? Please contact: sindhudhinakaran78@gmail.com
+Questions or contributions? Please contact: dhinakaransindhu96@gmail.com
 
 ---
 
